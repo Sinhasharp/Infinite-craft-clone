@@ -36,7 +36,7 @@ My entire focus for this first version was on getting the backend logic, the API
 
 * **Backend:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 * **Database:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-* **AI:** Google Gemini API
+* **AI:** Google Gemini API![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 * **Frontend:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ---
