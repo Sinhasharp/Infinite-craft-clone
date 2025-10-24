@@ -61,8 +61,8 @@ Interested in running it yourself? Here's how:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/YourUsername/your-repo-name.git](https://github.com/YourUsername/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/Sinhasharp/Infinite-craft-clone.git
+    cd Infinite-craft-clone
     ```
 
 2.  **Set Up the Backend**
@@ -108,3 +108,8 @@ This is just the first step in my journey, and I'm excited to keep building!
 * **Polish the UI:** My top priority is to make it look *a lot* better.
 * **Add a Search Bar:** The element list will get long, so a search bar is a must.
 * **Deployment:** My ultimate goal is to deploy this to a public website so anyone can play it!
+
+
+###If you like my project be sure sure to comment on it and also suggest me as of how can I make it even better.###
+*Thank You*
+*Sinhasharp*
