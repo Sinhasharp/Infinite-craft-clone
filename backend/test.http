@@ -1,0 +1,7 @@
+POST http://127.0.0.1:5000/combine
+Content-Type: application/json
+
+{
+    "element1": "Earth",
+    "element2": "Heaven"
+}
