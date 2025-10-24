@@ -105,11 +105,12 @@ Interested in running it yourself? Here's how:
 ## What's Next?
 
 This is just the first step in my journey, and I'm excited to keep building!
-* **Polish the UI:** My top priority is to make it look *a lot* better.
+* **Polish the UI:** My top priority is to make it look *a lot* better as the current version is "um...well...funtional".
 * **Add a Search Bar:** The element list will get long, so a search bar is a must.
 * **Deployment:** My ultimate goal is to deploy this to a public website so anyone can play it!
 
 
-###If you like my project be sure sure to comment on it and also suggest me as of how can I make it even better.###
-*Thank You*
-*Sinhasharp*
+### If you like my project be sure sure to comment on it and also suggest me as of how can I make it even better.
+Thank YOU
+
+Sinhasharp
