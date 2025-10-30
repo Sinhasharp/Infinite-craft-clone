@@ -1,4 +1,4 @@
-# My Infinite Craft Clone 🚀
+# Yfinity Craft!! 🚀
 
 This is my very first take on building a full-stack application, and I'm so excited to share it! I was inspired by the popular "Infinite Craft" game and wanted to see if I could build my own version to learn about Generative AI and databases.
 
