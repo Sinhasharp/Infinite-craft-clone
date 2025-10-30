@@ -45,7 +45,7 @@ def combine_elements():
         response = model.generate_content(prompt)
         raw_text = response.text.strip()
         
-        # Stricter parsing to prevent saving bad data like equations
+       
         if ':' in raw_text and '+' not in raw_text and '=' not in raw_text and len(raw_text.split()) < 5:
             parts = raw_text.split(':', 1)
             new_element_name = parts[0].strip().title()
@@ -74,7 +74,7 @@ def get_elements():
             if b['name'] not in element_names:
                 all_elements.append(b)
         
-        # Ensure every element sent to frontend has an emoji, even if somehow created without one
+       
         for el in all_elements:
             if 'emoji' not in el or not el['emoji']:
                 el['emoji'] = '✨'
